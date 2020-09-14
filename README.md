@@ -1,7 +1,7 @@
 # DotNetStandard_Item_Based_Collaborative_Filtering
 Item-Based Collaborative Filtering 
 
-I wanted a recommendation algorithm without using ML.Net for a simple class project but coudn't find any for .net or .net core so i made one for myself. I hope it come to some use for you
+I wanted a recommendation algorithm without using ML.Net for a simple class project but coudn't find any for .net or .net core so i made one for myself. 
 
 It uses item based collaborative filtering to calculate similarites between two user on how they rate any products and based on their similarities predicts items 
 that a user may like. 
